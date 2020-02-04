@@ -99,5 +99,13 @@ nano /etc/v2ray/config.json
   }
 }
 ```
-到此服务器方面的配置就结束了，不过要注意一点在你的服务器管理页面中需要开启
-你
+到此服务器方面的配置就结束了，不过要注意一点在你的服务器管理页面中需要开启你刚才设置的端口！！！
+
+## 客户端配置
+![](https://github.com/LengMingxuan/My-Image-Hosting-Service/blob/master/img/%E6%88%AA%E5%B1%8F2020-02-04%E4%B8%8A%E5%8D%8810.32.13.png?raw=true)
+
+先点击`加号`添加一个节点，然后再内容内输入你刚才的参数，再服务器终端内输入：
+```$
+cat /etc/v2ray/config.json
+```
+然后填进去就行了。
