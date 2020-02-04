@@ -1,6 +1,6 @@
 # v2ray-Build
 
-![](https://img.shields.io/badge/Demo%20for-macOS-blue) ![](https://img.shields.io/badge/Suitable%20for-Full%20platform-yellow)
+![](https://img.shields.io/badge/Demo%20for-macOS-blue)      ![](https://img.shields.io/badge/Suitable%20for-Full%20platform-yellow)     ![](https://img.shields.io/badge/Platform-Google%20Cloud-green?style=flat&logo=Google-Cloud)    ![](https://img.shields.io/badge/based%20on-CentOS-green?style=flat&logo=CentOS&logoColor=yellow)
 
 Use simple and easy-to-understand sentences to teach you how to set up v2ray on a web server to access the Internet
 
